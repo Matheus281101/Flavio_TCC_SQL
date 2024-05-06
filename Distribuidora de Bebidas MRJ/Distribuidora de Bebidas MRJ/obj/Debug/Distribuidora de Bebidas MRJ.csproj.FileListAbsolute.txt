@@ -1,0 +1,220 @@
+F:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.exe.config
+F:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.exe
+F:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.pdb
+F:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.AssemblyReference.cache
+F:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.SuggestedBindingRedirects.cache
+F:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Form1.resources
+F:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Properties.Resources.resources
+F:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.GenerateResource.cache
+F:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.CoreCompileInputs.cache
+F:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.exe
+F:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.pdb
+E:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.exe.config
+E:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.exe
+E:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.pdb
+E:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.AssemblyReference.cache
+E:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.SuggestedBindingRedirects.cache
+E:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Form1.resources
+E:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Properties.Resources.resources
+E:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.GenerateResource.cache
+E:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.CoreCompileInputs.cache
+E:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.exe
+E:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.pdb
+D:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.exe.config
+D:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.exe
+D:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.pdb
+D:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.AssemblyReference.cache
+D:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Form1.resources
+D:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Properties.Resources.resources
+D:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.GenerateResource.cache
+D:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.CoreCompileInputs.cache
+D:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.exe
+D:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.pdb
+D:\Curso\TCC\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Principal.resources
+D:\CURSO\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Caixa.resources
+D:\CURSO\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Vendas.resources
+E:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.exe.config
+E:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.exe
+E:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.pdb
+E:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.AssemblyReference.cache
+E:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.SuggestedBindingRedirects.cache
+E:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Principal.resources
+E:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Properties.Resources.resources
+E:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Vendas.resources
+E:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.GenerateResource.cache
+E:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.CoreCompileInputs.cache
+E:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.exe
+E:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.pdb
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.exe.config
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.exe
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.pdb
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.AssemblyReference.cache
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Principal.resources
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Properties.Resources.resources
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Vendas.resources
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.GenerateResource.cache
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.CoreCompileInputs.cache
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.exe
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.pdb
+E:\CURSO\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Caixa.resources
+E:\CURSO\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Principal.resources
+E:\CURSO\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Vendas.resources
+E:\CURSO\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Fornecedores.resources
+E:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Fornecedores.resources
+D:\CURSO\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Estoque.resources
+D:\CURSO\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Fornecedores.resources
+C:\Users\aluno\Desktop\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.exe.config
+C:\Users\aluno\Desktop\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.exe
+C:\Users\aluno\Desktop\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.pdb
+C:\Users\aluno\Desktop\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.cadastro_de_estoque.resources
+C:\Users\aluno\Desktop\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Estoque.resources
+C:\Users\aluno\Desktop\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Fornecedores.resources
+C:\Users\aluno\Desktop\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Form1.resources
+C:\Users\aluno\Desktop\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Caixa.resources
+C:\Users\aluno\Desktop\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Principal.resources
+C:\Users\aluno\Desktop\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Properties.Resources.resources
+C:\Users\aluno\Desktop\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Vendas.resources
+C:\Users\aluno\Desktop\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.exe
+C:\Users\aluno\Desktop\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.pdb
+E:\CURSO\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Estoque.resources
+E:\CURSO\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.cadastro_funcionario.resources
+E:\CURSO\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.cadastro_prod.resources
+C:\Users\Aluno\Desktop\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.exe.config
+C:\Users\Aluno\Desktop\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.exe
+C:\Users\Aluno\Desktop\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.pdb
+C:\Users\Aluno\Desktop\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.cadastro_prod.resources
+C:\Users\Aluno\Desktop\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Estoque.resources
+C:\Users\Aluno\Desktop\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Fornecedores.resources
+C:\Users\Aluno\Desktop\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Form1.resources
+C:\Users\Aluno\Desktop\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Principal.resources
+C:\Users\Aluno\Desktop\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Properties.Resources.resources
+C:\Users\Aluno\Desktop\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Vendas.resources
+C:\Users\Aluno\Desktop\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.exe
+C:\Users\Aluno\Desktop\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.pdb
+C:\Users\Aluno\Desktop\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.NFs.resources
+E:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.cadastro_prod.resources
+E:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Estoque.resources
+E:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.E.resources
+E:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.NFs.resources
+E:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.CopyComplete
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.cadastro_prod.resources
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Estoque.resources
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Fornecedores.resources
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.NFs.resources
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribu.0A0EE030.Up2Date
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Form1.resources
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\RefitStubs.g.cs
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Newtonsoft.Json.dll
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Refit.dll
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Buffers.dll
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Memory.dll
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Numerics.Vectors.dll
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Text.Encodings.Web.dll
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Text.Json.dll
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.ValueTuple.dll
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Newtonsoft.Json.xml
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Refit.xml
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Buffers.xml
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Memory.xml
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Numerics.Vectors.xml
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Text.Encodings.Web.xml
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Text.Json.xml
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\tcc\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.ValueTuple.xml
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\mrj.mdf
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\mrj_log.ldf
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.exe.config
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.exe
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.pdb
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Newtonsoft.Json.dll
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Refit.dll
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Buffers.dll
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Memory.dll
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Numerics.Vectors.dll
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Text.Encodings.Web.dll
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Text.Json.dll
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.ValueTuple.dll
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Newtonsoft.Json.xml
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Refit.xml
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Buffers.xml
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Memory.xml
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Numerics.Vectors.xml
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Text.Encodings.Web.xml
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Text.Json.xml
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.ValueTuple.xml
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.AssemblyReference.cache
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.SuggestedBindingRedirects.cache
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.cadastro_prod.resources
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Estoque.resources
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Fornecedores.resources
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Form1.resources
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.NFs.resources
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Principal.resources
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Properties.Resources.resources
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Vendas.resources
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.GenerateResource.cache
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\RefitStubs.g.cs
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.CoreCompileInputs.cache
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.CopyComplete
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.exe
+E:\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.pdb
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\mrj.mdf
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\mrj_log.ldf
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.exe.config
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.exe
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Distribuidora de Bebidas MRJ.pdb
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Refit.dll
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Text.Json.dll
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.ValueTuple.dll
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\Refit.xml
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Memory.xml
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Text.Json.xml
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\bin\Debug\System.ValueTuple.xml
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.cadastro_prod.resources
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Estoque.resources
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Fornecedores.resources
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Form1.resources
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.NFs.resources
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Principal.resources
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora_de_Bebidas_MRJ.Vendas.resources
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\RefitStubs.g.cs
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.exe
+C:\Users\Aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribuidora de Bebidas MRJ.pdb
+C:\Users\aluno\Desktop\Flavio_TCC_SQL\Distribuidora de Bebidas MRJ\Distribuidora de Bebidas MRJ\obj\Debug\Distribu.0A0EE030.Up2Date

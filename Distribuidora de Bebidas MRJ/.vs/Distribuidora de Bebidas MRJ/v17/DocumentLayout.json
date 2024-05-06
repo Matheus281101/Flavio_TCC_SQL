@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Flavio_TCC_SQL\\Distribuidora de Bebidas MRJ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA466F7-EDBE-4C26-B50D-1E80155C979D}|Distribuidora de Bebidas MRJ\\Distribuidora de Bebidas MRJ.csproj|D:\\Flavio_TCC_SQL\\Distribuidora de Bebidas MRJ\\distribuidora de bebidas mrj\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA466F7-EDBE-4C26-B50D-1E80155C979D}|Distribuidora de Bebidas MRJ\\Distribuidora de Bebidas MRJ.csproj|solutionrelative:distribuidora de bebidas mrj\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA466F7-EDBE-4C26-B50D-1E80155C979D}|Distribuidora de Bebidas MRJ\\Distribuidora de Bebidas MRJ.csproj|d:\\flavio_tcc_sql\\distribuidora de bebidas mrj\\distribuidora de bebidas mrj\\fornecedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DA466F7-EDBE-4C26-B50D-1E80155C979D}|Distribuidora de Bebidas MRJ\\Distribuidora de Bebidas MRJ.csproj|solutionrelative:distribuidora de bebidas mrj\\fornecedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "D:\\Flavio_TCC_SQL\\Distribuidora de Bebidas MRJ\\Distribuidora de Bebidas MRJ\\Estoque.cs",
+              "RelativeDocumentMoniker": "Distribuidora de Bebidas MRJ\\Estoque.cs",
+              "ToolTip": "D:\\Flavio_TCC_SQL\\Distribuidora de Bebidas MRJ\\Distribuidora de Bebidas MRJ\\Estoque.cs",
+              "RelativeToolTip": "Distribuidora de Bebidas MRJ\\Estoque.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAmwEUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T00:49:10.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fornecedores.cs [Design]",
+              "DocumentMoniker": "D:\\Flavio_TCC_SQL\\Distribuidora de Bebidas MRJ\\Distribuidora de Bebidas MRJ\\Fornecedores.cs",
+              "RelativeDocumentMoniker": "Distribuidora de Bebidas MRJ\\Fornecedores.cs",
+              "ToolTip": "D:\\Flavio_TCC_SQL\\Distribuidora de Bebidas MRJ\\Distribuidora de Bebidas MRJ\\Fornecedores.cs [Design]",
+              "RelativeToolTip": "Distribuidora de Bebidas MRJ\\Fornecedores.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T00:00:57.753Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
