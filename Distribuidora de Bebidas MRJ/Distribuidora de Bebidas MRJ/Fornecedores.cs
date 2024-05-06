@@ -101,7 +101,7 @@ namespace Distribuidora_de_Bebidas_MRJ
             cadastrar.Hide();
             salvar.Show();
             titulo.Text = "Editar Fornecedores";
-            Label_buscar.Show();
+            Label_buscar.Show();gyugyjgyjgyjg
             Buscar_forn.Show();
         }
 
